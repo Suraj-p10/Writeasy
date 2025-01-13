@@ -1,6 +1,6 @@
 # Writeasy - Blog Generation App
 
-![Writeasy Banner](assets/banner.png) <!-- Replace with an appropriate banner or remove this line -->
+![Writeasy Banner](banner.png) 
 
 Writeasy is an end-to-end **blog generation app** leveraging the power of **AWS Cloud Services** and **Meta Llama 3 8B**. This application demonstrates the integration of serverless architecture, API Gateway, and scalable storage solutions to generate high-quality blog content seamlessly.
 
@@ -31,7 +31,7 @@ Writeasy is an end-to-end **blog generation app** leveraging the power of **AWS 
 2. **Lambda Function**: Processes requests and generates content using Meta Llama 3 8B.
 3. **AWS S3**: Stores generated content for retrieval and scalability.
 
-![Architecture Diagram](assets/architecture.png) <!-- Add an architecture diagram here -->
+![Architecture Diagram](architecture.png) <!-- Add an architecture diagram here -->
 
 ---
 
