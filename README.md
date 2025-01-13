@@ -1,3 +1,4 @@
 # Writeasy
 Blog Generation App using AWS
-![Uploading AWS project FC .png…]()
+![Alt text](AWS project FC .png)
+
